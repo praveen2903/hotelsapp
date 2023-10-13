@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import data from '../data';
 import {BsArrowRight, BsThreeDots} from 'react-icons/bs';
 import {IoIosHourglass} from 'react-icons/io';
